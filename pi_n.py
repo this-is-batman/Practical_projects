@@ -7,8 +7,7 @@ def get_digit_after_pi():
         print("The hard limit is 20 digits after decimal in pi.")
         exit(-1)
     str = '{:0.'+ n + '' +'f}'
-    ans = str.format(math.pi)
-    print(ans)
+    print(str.format(math.pi))
 
 if __name__ == "__main__":
      get_digit_after_pi()
