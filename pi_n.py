@@ -1,4 +1,4 @@
-# get the number of digits after decimal in pi
+# Find PI to the nth digit
 import math
 
 def get_digit_after_pi():
