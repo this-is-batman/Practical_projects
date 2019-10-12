@@ -1,4 +1,4 @@
-# we need to implement the sieve of erastothenes tp find all the primes below 10*10^6
+# we need to implement the sieve of erastothenes to find all the primes below 10*10^6
 # 0 means composite 1 means prime
 
 # the function below finds all the primes upto n here 1 is not a prime
